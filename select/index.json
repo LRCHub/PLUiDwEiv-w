@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "UNDEAD（feat. 初音ミク）",
+  "base_artist": "タカオカミズキ",
+  "createdAt": "2026-03-04T15:20:26.035369Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "2L8 UNDEAD (feat. Hollywood Undead)",
+      "artist": "Ryan Oakes",
+      "has_synced": true,
+      "path": "select/01_2L8_UNDEAD_(feat._Hollywood_Undead)_Ryan_Oakes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The End / Undead (feat. Hollywood Undead)",
+      "artist": "Zero 9:36",
+      "has_synced": true,
+      "path": "select/02_The_End___Undead_(feat._Hollywood_Undead)_Zero_9_36.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "UNDEAD (feat Darko)",
+      "artist": "Lil Revive",
+      "has_synced": true,
+      "path": "select/03_UNDEAD_(feat_Darko)_Lil_Revive.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNDEAD (feat. 初音ミク) [Cover]",
+      "artist": "タカオカミズキ",
+      "has_synced": false,
+      "path": "select/pl_01_UNDEAD_(feat._初音ミク)_[Cover]_タカオカミズキ.txt"
+    }
+  ]
+}
